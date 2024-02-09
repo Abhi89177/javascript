@@ -14,3 +14,10 @@
 // array
 
 console.log(typeof null);
+let ram = "manoj"
+const vijay = 123;
+const ak= 123456789765;
+let ab= true;
+console.table(typeof[ram, vijay, ak, ab]);
+let vk
+console.log(typeof vk)
