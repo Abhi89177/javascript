@@ -16,7 +16,7 @@
 console.log(typeof null);
 let ram = "manoj"
 const vijay = 123;
-const ak= 12345678976587876765765645;
+const ak= 1234567897658787676576564;
 let ab= true;
 console.table(typeof[ram, vijay, ak, ab]);
 let vk
