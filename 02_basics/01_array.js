@@ -30,5 +30,12 @@ const ram = [2,3,4,5,6,7,[23,45,26],8,9]
 const shayam = ram.flat(Infinity);
 console.log(shayam);
 
+const rama = "raghuvar";
+console.log(Array.isArray(rama));
+console.log(Array.from(rama));
+let score1= 24;
+let score2= 35;
+let score3= 49;
+console.log(Array.of(score1, score2,score3));
 
 
