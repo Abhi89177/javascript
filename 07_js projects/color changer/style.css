@@ -1,0 +1,32 @@
+<style>
+* {
+    box-sizing: border-box;
+}
+
+.color {
+    color: white;
+    border-radius: 50px;
+    margin: 50px;
+    text-align: center;
+    padding: 50px;
+    box-sizing: border-box;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#black {
+    background-color: black;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#green {
+    background-color: green;
+}
+</style>
